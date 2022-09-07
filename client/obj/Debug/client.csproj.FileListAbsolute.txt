@@ -1,0 +1,12 @@
+C:\Users\matei\source\repos\PrivateChat\client\bin\Debug\client.exe.config
+C:\Users\matei\source\repos\PrivateChat\client\bin\Debug\client.exe
+C:\Users\matei\source\repos\PrivateChat\client\bin\Debug\client.pdb
+C:\Users\matei\source\repos\PrivateChat\client\bin\Debug\SimpleTCP.dll
+C:\Users\matei\source\repos\PrivateChat\client\obj\Debug\client.csproj.AssemblyReference.cache
+C:\Users\matei\source\repos\PrivateChat\client\obj\Debug\client.Properties.Resources.resources
+C:\Users\matei\source\repos\PrivateChat\client\obj\Debug\client.csproj.GenerateResource.cache
+C:\Users\matei\source\repos\PrivateChat\client\obj\Debug\client.csproj.CoreCompileInputs.cache
+C:\Users\matei\source\repos\PrivateChat\client\obj\Debug\client.csproj.CopyComplete
+C:\Users\matei\source\repos\PrivateChat\client\obj\Debug\client.exe
+C:\Users\matei\source\repos\PrivateChat\client\obj\Debug\client.pdb
+C:\Users\matei\source\repos\PrivateChat\client\obj\Debug\client.Form1.resources

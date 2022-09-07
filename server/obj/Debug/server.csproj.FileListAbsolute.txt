@@ -1,0 +1,11 @@
+C:\Users\matei\source\repos\PrivateChat\server\obj\Debug\server.csproj.AssemblyReference.cache
+C:\Users\matei\source\repos\PrivateChat\server\obj\Debug\server.csproj.CoreCompileInputs.cache
+C:\Users\matei\source\repos\PrivateChat\server\bin\Debug\server.exe.config
+C:\Users\matei\source\repos\PrivateChat\server\bin\Debug\server.exe
+C:\Users\matei\source\repos\PrivateChat\server\bin\Debug\server.pdb
+C:\Users\matei\source\repos\PrivateChat\server\obj\Debug\server.exe
+C:\Users\matei\source\repos\PrivateChat\server\obj\Debug\server.pdb
+C:\Users\matei\source\repos\PrivateChat\server\bin\Debug\SimpleTCP.dll
+C:\Users\matei\source\repos\PrivateChat\server\obj\Debug\server.csproj.CopyComplete
+C:\Users\matei\source\repos\PrivateChat\server\bin\Debug\Newtonsoft.Json.dll
+C:\Users\matei\source\repos\PrivateChat\server\bin\Debug\Newtonsoft.Json.xml
