@@ -1,3 +1,3 @@
 # C# Encrypted Chat
 
-C# finished encrypted chat
+A C# encrypted chat with many features, client made in WinForms, server Console.
